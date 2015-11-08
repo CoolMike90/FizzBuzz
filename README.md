@@ -1,6 +1,8 @@
-# FizzBuzz
-FizzBuzz App
+#FizzBuzz App
+Working Example
+http://coolmike90.github.io/FizzBuzz/
 
+##Explanation
 Fizz if the number is divisible by 3
 Buzz if the number is divisible by 5
 FizzBuzz if the number is divisible by 3 and 5
